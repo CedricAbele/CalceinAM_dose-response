@@ -1,6 +1,7 @@
 # Project summary
 
 The aim of this project was to develop an image-based analysis method for toxicological effects on esterase acitivty in Daphnia magna after exposure the esterase inhibitors triphenyl phosphate and netilmicin sulphate. Molecular staining with Calcein-AM combined with fluorescence microscopy was used to quantify adverse effects. After the method was validated, the method was applied to environmental contaminants methoxychlor, lindane and TBT-CL. The effects were measured based on light intensity data extracted from fluorescence images.  Fast generation of toxicological data is a main goal in this study. Therefore image acquisition was done with an automated multipoint confocal high-content imaging system suitable for experiments in multi-well plates. This R workflow was developed to perform basic statistical analysis and generate figures that compares two toxic endpoints measued in the same sample.
+test 
 
 >Code was used in this paper: (under Review)
 and previously also in this publication: [Automated Image-based Fluorescence Screening of Mitochondrial Membrane Potential in Daphnia magna: An advanced ecotoxicological testing tool](https://doi.org/10.1021/acs.est.4c02897)
