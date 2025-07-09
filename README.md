@@ -35,4 +35,4 @@ The drc package is used to model dose-response relationships for both endpoints 
 
 # raw data
  This folder contains the raw data of all dose-response calculations and plots found in the publication. 
- (only raw data for triphenyl phosphat (TPP) are available at the moment. the raw data for all other tested compounds will be uploaded as soon as the manuscript is accepted)
+ (only raw data for triphenyl phosphat (TPP) are available at the moment. The raw data for all other tested compounds will be uploaded as soon as the manuscript is accepted)
